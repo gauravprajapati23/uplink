@@ -1,6 +1,6 @@
 # 🚀 UPLINK : Network Fixer
 
-![Uplink Thumbnail](thumbnail.png)
+![Uplink Thumbnail](thumbnail.jpg)
 
 > **Automated Network Repair Tool for Kali Linux (Live & Installed)**
 > *Created by: The Matrix*
