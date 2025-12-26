@@ -73,14 +73,14 @@ sudo ./uplink.sh
 <br>
 <hr>
 
-<div align="center">
-  <h3>🛠️ Developer</h3>
-  <a href="https://github.com/YourUsername">
-    <img src="https://github.com/YourUsername.png" width="100px" alt="The Matrix" style="border-radius: 50%;">
-  </a>
-  <br>
-  <b>The Matrix</b>
-  <br>
-  <i>Creator of Uplink & Pixasis AI</i>
-</div>
+## 🛠️ Developer
+
+<a href="https://github.com/YourUsername">
+  <img src="https://github.com/YourUsername.png" width="50" align="left" style="border-radius: 50%; margin-right: 15px;">
+</a>
+
+<b>The Matrix</b><br>
+<i>Creator of Uplink & Pixasis AI</i>
+
+<br clear="left">
 
