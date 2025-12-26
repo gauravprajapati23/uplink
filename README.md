@@ -69,18 +69,22 @@ sudo ./uplink.sh
 <br>
 *Project: Uplink*
 
-
 <br>
 <hr>
 
 ## 🛠️ Developer
 
-<a href="https://github.com/YourUsername">
-  <img src="https://github.com/YourUsername.png" width="50" align="left" style="border-radius: 50%; margin-right: 15px;">
+<a href="https://github.com/gauravprajapati23">
+  <img src="https://github.com/gauravprajapati23.png" width="50" align="left" style="border-radius: 50%; margin-right: 15px;">
 </a>
-
 <b>The Matrix</b><br>
-<i>Creator of Uplink & Pixasis AI</i>
+<i>Developer of Uplink</i>
+
+<a href="https://github.com/pradnyatavandkar25">
+  <img src="https://github.com/pradnyatavandkar25.png" width="50" align="left" style="border-radius: 50%; margin-right: 15px;">
+</a>
+<b>The Matrix</b><br>
+<i>Developer of Uplink</i>
 
 <br clear="left">
 
