@@ -35,7 +35,7 @@ It automates the boring process of:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/gauravprajapati23/uplink](https://github.com/gauravprajapati23/uplink)
+git clone https://github.com/gauravprajapati23/uplink
 ```
 
 ### Step 2: Navigate to Directory
