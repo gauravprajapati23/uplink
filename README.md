@@ -35,12 +35,12 @@ It automates the boring process of:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/YourUsername/Uplink.git](https://github.com/YourUsername/Uplink.git)
+git clone [https://github.com/gauravprajapati23/uplink](https://github.com/gauravprajapati23/uplink)
 ```
 
 ### Step 2: Navigate to Directory
 ```bash
-cd Uplink
+cd uplink
 ```
 
 ### Step 3: Give Permission
